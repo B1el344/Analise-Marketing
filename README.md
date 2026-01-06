@@ -8,7 +8,8 @@ Este estudo busca responder como características demográficas, canais de venda
     2. Há como estabelecer uma previsão, dadas as características do consumidor, do quanto será o seu gasto total?
     3. Qual o perfil de cliente em cada meio de canais de vendas.
     4. As campanhas de vendas foram efetivas? Qual delas foi a mais e a menos efetiva?
-## Bibliotecas utilizadas: pandas, matplotlib, seaborn, sklearn, statsmodels
+## Bibliotecas utilizadas: 
+Pandas, Matplotlib, Seaborn, Scikit learn, Statsmodels
 ## Principais Insights:
 * Concluímos que a maior parte dos nossos clientes são pessoas com Graduação, da geração X e Baby Boomers, Solteiros e sem filhos ou adolescentes em casa e localizados nos Estados Unidos da América. Tal informação pode orientar as campanhas de marketing futuras, para a criação de personas.
 * O público com maior gasto total na loja é composto por pessoas com Curso Superior e com rendas anuais altas, sendo assim um público com ticket mais alto que pode maximizar receita de futuras campanhas de marketing.
